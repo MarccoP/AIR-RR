@@ -1,11 +1,19 @@
-# Header 1
-## Header 2
-### Header 3
+<!doctype html>
 
---Bulleted
-- List
+<html lang="pl">
 
-1. Numbered
-2. List
+<head>
+<meta charset="utf-8"/>
+<title> M O J A S T R O N A</title>
+<link rel="stylesheet" href="main.css">
+</head>
 
-**Bold** and_Italic_and 'Code' tezt
+<body>
+
+
+</body>
+
+
+
+
+</html>
