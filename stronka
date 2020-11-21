@@ -30,6 +30,18 @@ newsy
 </h4>
 Tutaj będą szybkie newsy
 </aside>
+<article>
+<header>
+<hgroup>
+<h1>Wpis</h1>
+<h2>Od czegoś trzeba zacząć</h2>
+</hgroup>
+</header>
+<p>Pierwszy wpis na zajęcia !</p>
+<footer>
+<p> Napisane dla rozrywki </p>
+</footer>
+</article>
 <footer>
 Marek Pankiewicz
 Copryight 2020
