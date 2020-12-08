@@ -1,1 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  width:100%;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+#t01 tr:nth-child(even) {
+  background-color: #eee;
+}
+#t01 tr:nth-child(odd) {
+ background-color: #fff;
+}
+#t01 th {
+  background-color: black;
+  color: white;
+}
+</style>
+</head>
+<body>
 
+<h2>Średnie temperatur we Wrocławiu w 2019</h2>
+
+
+
+<table id="t01">
+  <tr>
+    <th>Miesiąc</th>
+    <th>Temperatura</th> 
+   
+  </tr>
+  <tr>
+    <td>Styczeń</td>
+    <td>0.2</td>
+ 
+  </tr>
+  <tr>
+    <td>Luty</td>
+    <td>3.8</t> 
+  </tr>
+  <tr>
+    <td>Marzec</td>
+    <td>7.2</td>
+   
+  </tr>
+  <tr>
+    <td>Kwiecień</td>
+    <td>11.2</td>
+ 
+  </tr>
+  <tr>
+    <td>Maj</td>
+    <td>12.4</t> 
+  </tr>
+  <tr>
+    <td>Czerwiec</td>
+    <td>22.7</td>
+  </tr>
+  
+    <tr>
+    <td>Lipiec</td>
+    <td>20.3</td>
+ 
+  </tr>
+  <tr>
+    <td>Sierpień</td>
+    <td>21.2</t> 
+  </tr>
+  <tr>
+    <td>Wrzesień</td>
+    <td>15.2</td>
+   
+  </tr>
+  <tr>
+    <td>Październik</td>
+    <td>11.2</td>
+ 
+  </tr>
+  <tr>
+    <td>Listopad</td>
+    <td>7.6</t> 
+  </tr>
+  <tr>
+    <td>Grudzień</td>
+    <td>4.0</td>
+  </tr>
+</table>
+
+</body>
+</html>
